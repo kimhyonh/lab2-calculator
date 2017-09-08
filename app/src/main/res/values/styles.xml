@@ -15,4 +15,8 @@
         <item name="android:textStyle">bold</item>
     </style>
 
+    <style name="error" parent="textBig">
+        <item name="android:textColor">@color/colorAccent</item>
+    </style>
+
 </resources>
