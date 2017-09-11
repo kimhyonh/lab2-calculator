@@ -13,4 +13,6 @@
     <string name="monthlyPayment">Monthly Payment</string>
     <string name="totalPayment">Total Payment</string>
     <string name="totalInterest">Total Interest</string>
+    <string name="errorMissingFields">Please fill on the fields</string>
+    <string name="errorInvalidNumber">Invalid number</string>
 </resources>

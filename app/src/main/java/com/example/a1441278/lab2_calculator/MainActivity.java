@@ -61,7 +61,7 @@ public class MainActivity extends AppCompatActivity {
         String interest = etInterest.getText().toString();
 
         if(loanAmt.isEmpty() || termOfLoan.isEmpty() || interest.isEmpty()) {
-            tvError.setText("Please complete all the fields");
+            tvError.setText(R.string.errorMissingFields);
             tvError.setVisibility(View.VISIBLE);
             return false;
         }
@@ -73,7 +73,7 @@ public class MainActivity extends AppCompatActivity {
             tvError.setText("");
             tvError.setVisibility(View.INVISIBLE);
         } catch (NumberFormatException e){
-            tvError.setText("Please type valid number");
+            tvError.setText(R.string.errorInvalidNumber);
             tvError.setVisibility(View.VISIBLE);
             return false;
         }
