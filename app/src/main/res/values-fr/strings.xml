@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lab2-calculator</string>
+    <string name="amount"></string>
+    <string name="errorInvalidNumber">Numero invalide</string>
+    <string name="interestHint">interet annuel</string>
+</resources>
