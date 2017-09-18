@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Lab2-calculator</string>
-    <string name="amount"></string>
-    <string name="errorInvalidNumber">Numero invalide</string>
-    <string name="interestHint">interet annuel</string>
+    <string name="amount">Montant du prêt</string>
+    <string name="errorInvalidNumber">Numéro invalide</string>
+    <string name="monthlyPayment">Paiement Mensuel</string>
+    <string name="result">Résultat</string>
+    <string name="calculate">Calculer</string>
+    <string name="clear">Clair</string>
+    <string name="interest">Taux d\'intérêt Annuel</string>
 </resources>
