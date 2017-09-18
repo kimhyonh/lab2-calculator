@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Lab2-calculator</string>
+    <string name="title">Loan Calculator</string>
+    <string name="amount">Loan Amount</string>
+    <string name="amountHint">50000</string>
+    <string name="termOfLoan">Term of Loan (years)</string>
+    <string name="termOfLoanHint">7</string>
+    <string name="interest">Yearly Interest Rate</string>
+    <string name="interestHint">7.5</string>
+    <string name="calculate">Calculate</string>
+    <string name="clear">Clear</string>
+    <string name="result">Result</string>
+    <string name="monthlyPayment">Monthly Payment</string>
+    <string name="totalPayment">Total Payment</string>
+    <string name="totalInterest">Total Interest</string>
+    <string name="errorMissingFields">Please fill on the fields</string>
+    <string name="errorInvalidNumber">Invalid number</string>
+</resources>
